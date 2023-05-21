@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Ty, a french woman, and passionate Fullstack Developer currently enhancing my skills through training and exploration.
+
+🔬 I’m currently learning about Javascript, NodeJS, React and more.
+
+📫 How to reach me: Email me at bichty.ha@gmail.com
 
 <!--
 **Ty-HA/ty-HA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
