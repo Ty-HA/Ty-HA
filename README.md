@@ -9,7 +9,7 @@ I am currently doing a career change to become a web developper (fullstack) beca
 
 💬 Ask me about anything, do not hesitate!
 
-My french resume click here => [Cv](https://github.com/Ty-HA/ty-HA/blob/main/CV%20Ty%20HA%20230523.pdf)
+My french resume click here => [Cv](https://github.com/Ty-HA/ty-HA/blob/30524bc530b119616f11b13618455bd6343854a8/CV%20Ty%20HA%20300523.pdf)
 
 ⚡ Fun fact:
 <p>
