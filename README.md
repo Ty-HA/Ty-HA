@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Ty, a french woman from Paris. 
 I am currently doing a career change to become a web developper (fullstack) because I always loved all about IT.
+
 🔬 I’m currently learning about Javascript, NodeJS, React and more.
 
 👯 I’m looking for an internship from August 4.
