@@ -1,10 +1,10 @@
 ### Hi there 👋
 My name is Ty, a french woman from Paris. 
-I am currently doing a career change to become a web developper (fullstack) because I always loved all about IT.
+I am a french full stack developer recently graduated.
 
-🔬 I’m currently learning about Javascript, NodeJS, React and more.
+🔬 My hard skills are Javascript, NodeJS, React and more.
 
-👯 I’m looking for an internship from August 4.
+👯 I’m currently in a 6-months internship until 2024 february.
 
 📫 How to reach me: Email me at bichty.ha@gmail.com
 
