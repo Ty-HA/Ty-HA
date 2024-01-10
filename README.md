@@ -26,6 +26,7 @@ I also was an art school studio manager in Paris (drawing classes) and I was in 
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
+  <img alt="Reactnative" src="https://img.shields.io/badge/React%20Native-8A2BE2" />
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -39,6 +40,7 @@ I also was an art school studio manager in Paris (drawing classes) and I was in 
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />
   <img alt="Procreate" src="https://img.shields.io/badge/Procreate-37189b?style=flat-square" />
   <img alt="Clip Studio Paint" src="https://img.shields.io/badge/Clip%20Studio%20Paint-ffffff?style=flat-square" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-8A2BE2" />
   
 </p>
 
