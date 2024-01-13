@@ -10,7 +10,7 @@ I am a french full stack developer.
 
 💬 Ask me about anything, do not hesitate!
 
-My french resume click here => [Cv](https://github.com/Ty-HA/ty-HA/blob/f1961293f8ad5bb10a49de2d18897a3e48f30d72/CV-Ty-HA-Developpeuse-web-300523.pdf)
+My french resume click here => [Cv](https://github.com/Ty-HA/ty-HA/blob/main/CV-Ty-HA-Developpeuse-web-130124.pdf)
 
 ⚡ Fun fact:
 <p>
