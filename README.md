@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ty, a french woman from Paris. 
-I am a french full stack developer recently graduated.
+I am a french full stack developer.
 
 🔬 My hard skills are Javascript, NodeJS, React and more.
 
