@@ -1,12 +1,19 @@
 ### Hi there 👋
 My name is Ty, a french woman from Paris. 
-I am a french full stack developer.
+I am a french full stack and blockchain developer.
+<p> I'm a web3 enthusiast. </p>
+<p> I got my RS6515 certificate - Develop a decentralized application using blockchain technologies with ALYRA school.</p>
 
-🔬 My hard skills are Javascript, NodeJS, React and more.
+<p> I am proud, that I did a XRPL Residency in April 2024, and won a Hackathon (HAKS 2024) and the Demo Day jury's prize with my personal project PawesomeID (decentralized identity)</p>
+<p> You can check my proof of concept here: https://github.com/Ty-HA/pawesomeID</p>
+<p> PawesomeID is an innovative decentralized application (DApp) that creates a blockchain-based digital identity for pets. Leveraging the XRPL blockchain and Decentralized Identifiers (DIDs), this project aims to elevate the status of animals in our society by providing them with a secure, transparent, and self-sovereign identity.</p>
 
-👯 I’m currently in a 6-months internship until 2024 february.
 
-📫 How to reach me: Email me at bichty.ha@gmail.com
+🔬 My hard skills are Javascript, NodeJS, React, React Native, and Solidity.
+
+👯 I’m currently working as freelance for Yuli, a Pet Tech startup
+
+📫 How to reach me: Email me at ty@bthasystem.io
 
 💬 Ask me about anything, do not hesitate!
 
@@ -30,6 +37,7 @@ I also was an art school studio manager in Paris (drawing classes) and I was in 
 </p>
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-43853d?style=flat-square" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
