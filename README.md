@@ -1,73 +1,30 @@
-### Hi there 👋
-My name is Ty, a french woman from Paris. 
-I am a french full stack and blockchain developer.
-<p> I'm a web3 enthusiast. </p>
-<p> I got my RS6515 certificate - Develop a decentralized application using blockchain technologies with ALYRA school.</p>
+## Hi there 👋
 
-<p> I am proud, that I did a XRPL Residency in April 2024, and won a Hackathon (HAKS 2024) and the Demo Day jury's prize with my personal project PawesomeID (decentralized identity)</p>
-<p> You can check my proof of concept here: https://github.com/Ty-HA/pawesomeID</p>
-<p> PawesomeID is an innovative decentralized application (DApp) that creates a blockchain-based digital identity for pets. Leveraging the XRPL blockchain and Decentralized Identifiers (DIDs), this project aims to elevate the status of animals in our society by providing them with a secure, transparent, and self-sovereign identity.</p>
+I’m **Ty**, a passionate full-stack and blockchain developer based in Paris, France.  
 
+With a background in engineering management and visual arts, I transitioned into tech to explore my passion for **Web3 and blockchain innovation**. I thrive on rapid learning and problem-solving, which is why I love participating in hackathons and building **proofs of concept** in a matter of days.
 
-🔬 My hard skills are Javascript, NodeJS, React, React Native, and Solidity.
+### 🏆 Highlights
+- **XRPL Residency (April 2024)**: Developed *PawesomeID*, a decentralized identity solution for pets, and won the HAKS 2024 Hackathon and the Demo Day jury’s prize.  
+  - *PawesomeID* gives pets a blockchain-based self-sovereign identity using XRPL and DIDs.  
+  - Check out the POC here: [PawesomeID](https://github.com/Ty-HA/pawesomeID).
 
-👯 I’m currently working as freelance for Yuli, a Pet Tech startup
+- **Hackathon Achievements**:  
+  - **Algorand Hackathon France** (2nd place): *Nexus ID*, a decentralized identity solution for financial inclusion and microcredit access.  
+  - **Babylon BTC Hackathon**: Focused on enhancing security and user experience for Bitcoin Layer 2 protocols.  
+  - **Vierzon Avalanche Hackathon**: Built *SmartMed*, an on-chain medication traceability solution.
 
-📫 How to reach me: Email me at ty@bthasystem.io
+### 🔧 Skills  
+- **Programming**: JavaScript, Node.js, React, React Native, Solidity.  
+- **Blockchain**: Smart Contracts, Decentralized Applications (DApps), Decentralized Identifiers (DIDs).
 
-💬 Ask me about anything, do not hesitate!
+### 💼 Current Projects  
+- **Freelance Developer** for Yuli, a Pet Tech startup.
 
-My french resume click here => [Cv](https://github.com/Ty-HA/ty-HA/blob/main/CV-Ty-HA-Developpeuse-web-130124.pdf)
+### 🌱 More About Me  
+- I’m a lifelong learner and avid reader, always looking to improve my skills and explore new technologies.  
+- Before tech, I spent 15 years as a freelance illustrator and studio manager in the visual arts industry.
 
-⚡ Fun fact:
-<p>
-I was a freelance illustrator for 15 years.
-I studied Management (maitrise IUP in Nanterre (FRANCE)) but i dedicated myself to my passion for drawing (i also worked for french « mangaka » assistant few years ago). 
-I also was an art school studio manager in Paris (drawing classes) and I was in charge of making sure the drawing workshop ran smoothly. (plannings, client support service…)
-</p>
-
-<h2>Various techs I use</h2>
-<h3>Frontend & backend</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" />
-  <img alt="Reactnative" src="https://img.shields.io/badge/React%20Native-8A2BE2" />
-</p>
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-43853d?style=flat-square" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue" />
-</p>
-<h3>Photo & design software skills</h3>
-<p>
-  <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />
-  <img alt="Procreate" src="https://img.shields.io/badge/Procreate-37189b?style=flat-square" />
-  <img alt="Clip Studio Paint" src="https://img.shields.io/badge/Clip%20Studio%20Paint-ffffff?style=flat-square" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-8A2BE2" />
-  
-</p>
-
-<h2>Where to find me</h2>
-<p><a href="https://github.com/ty-HA" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/ty-ha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
-
-<!--
-**Ty-HA/ty-HA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let’s Connect  
+- Email: **ty@bthasystem.io**  
+- [Resume in French](#)
