@@ -35,4 +35,4 @@ With a background in engineering management and visual arts, I transitioned into
 
 ### 📫 Let’s Connect  
 - Email: **ty@bthasystem.io**  
-- [PDF Resume](https://github.com/Ty-HA/TyHaResume-112124.pdf)
+- [PDF Resume](https://github.com/Ty-HA/Ty-HA/blob/main/TyHaResume-112124.pdf)
