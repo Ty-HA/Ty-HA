@@ -1,38 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ty
 
-I’m **Ty**, a passionate full-stack and blockchain woman developer based in Paris, France.  
+I'm a freelance full-stack developer based in the Paris region, working with **React, TypeScript, Next.js and Node.js**, as well as **React Native and Expo** for mobile applications.
 
-With a background in engineering management and visual arts, I transitioned into tech to explore my passion for **Web3 and blockchain innovation**. I thrive on rapid learning and problem-solving, which is why I love participating in hackathons and building **proofs of concept** in a matter of days.
+I work with founders and domain experts to turn product requirements into working applications. Often the sole or main developer on a project, I take responsibility for architecture, interfaces, API integrations, testing, delivery and ongoing maintenance.
 
-### 🏆 Highlights
-- **XRPL Residency (April 2024)**: Developed *PawesomeID*, a decentralized identity solution for pets, and won the HAKS 2024 Hackathon and the Demo Day jury’s prize.  
-  - *PawesomeID* gives pets a blockchain-based self-sovereign identity using XRPL and DIDs.  
-  - Check out the POC here: [PawesomeID](https://github.com/Ty-HA/pawesomeID).
+## Selected work
 
-- **Hackathon Achievements**:  
-  - **Algorand Hackathon France** (2nd place): *Nexus ID*, a decentralized identity solution for financial inclusion and microcredit access.  
+- **Fragiclic · CNGE** — A React and TypeScript platform for clinical research, developed with doctors and researchers. My work covers multi-step assessment forms, patient follow-up workflows, data exports, access controls and the technical architecture.
+- **Upush** — A sports coaching platform spanning a mobile app, backend and web administration portal. I developed the platform end to end and currently support it in production.
+- **SOKAI Club** — Lead full-stack and mobile development for a football training product: application architecture, typed API integrations, camera features, testing on real devices and delivery to the App Store and Google Play. I also chose OTA updates as part of the application's maintenance strategy.
+- **Blitch** — Took over an existing React Native application, audited and stabilised it, integrated subscriptions and supported its release on Google Play.
 
-    https://github.com/Ty-HA/algorand-did-hackathon
-  - **Babylon BTC Hackathon**:  *PolyStake*, Focused on enhancing security and user experience for Bitcoin Layer 2 protocols.  
-  
-    https://github.com/Ty-HA/polystake-frontend
+## Technologies I work with
 
-    https://github.com/EmanHerawy/PolyStake
-  - **Vierzon Avalanche Hackathon**: Built *Trusted*, an on-chain medication traceability solution. 
-  
-    https://github.com/Juiiceee/Trusted-Hackathon-Vierzon-2024
+- **Web:** React, TypeScript, Next.js, Tailwind CSS, React Query
+- **Backend and data:** Node.js, Express, REST APIs, OpenAPI, PostgreSQL, Supabase
+- **Mobile:** React Native, Expo, EAS Build and Update
+- **Quality and delivery:** Vitest, Playwright, Maestro, GitHub Actions, debugging on real devices
 
-### 🔧 Skills  
-- **Programming**: Solidity, TypeScript, JavaScript, Node.js, React, React Native, NextJS, Postgresql, Supabase.  
-- **Blockchain**: Smart Contracts (+ foundry & hardhat), Decentralized Applications (DApps), Decentralized Identifiers (DIDs).
+## How I work
 
-### 💼 Current Projects  
-- **Freelance Developer** for Yuli, a Pet Tech startup.
+I care about clear user journeys, maintainable code and what happens after a feature ships. I use AI coding tools including Claude Code and Codex, with task-specific agents, skills and MCP integrations. I remain responsible for architecture decisions, code review and validation.
 
-### 🌱 More About Me  
-- I’m a lifelong learner and avid reader, always looking to improve my skills and explore new technologies.  
-- Before tech, I spent 15 years as a freelance illustrator and studio manager in the visual arts industry.
+## Web3 and hackathons
 
-### 📫 Let’s Connect  
-- Email: **ty@bthasystem.io**  
-- [PDF Resume](https://github.com/Ty-HA/Ty-HA/blob/main/TyHaResume-112124.pdf)
+I also explore decentralised identity and smart contracts through prototypes and hackathons. Selected public projects include [PawesomeID](https://github.com/Ty-HA/pawesomeID), built during my XRPL Commons residency, and [Nexus ID](https://github.com/Ty-HA/algorand-did-hackathon), which placed second at the Algorand France hackathon.
+
+Before moving into development in 2023, I spent thirteen years as a freelance illustrator and later managed a creative studio. That experience still informs how I work with clients and approach product decisions.
+
+## Get in touch
+
+[Portfolio](https://bthasystem.io) · [LinkedIn](https://www.linkedin.com/in/ty-ha/)
+
+French and English · Based in France · Open to remote opportunities
